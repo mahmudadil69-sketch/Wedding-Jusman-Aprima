@@ -167,7 +167,7 @@ body{
     font-size: 20px;
     text-align: center;
     margin: -0 !important;
-    background: url('img/latar text.png') center/cover no-repeat;
+    background: url('img/latar text.png') center/cover no-repeat!important;
 }
 .row {
     margin-left: 0 !important;
