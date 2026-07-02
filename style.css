@@ -418,7 +418,7 @@ button {
     box-sizing: border-box;
     padding: 72px clamp(34px, 8vw, 95px);
     color: #ffffff;
-    background: url('img/latar text.png') center/cover no-repeat!important;
+    background: url('img/Latar text.png') center/cover no-repeat!important;
     text-align: center;
 }
 
@@ -426,7 +426,7 @@ button {
     overflow-x: hidden;
     padding-top: 0;
     padding-bottom: 90px;
-    background: url('img/latar.png') center/cover no-repeat;
+    background: url('img/Latar.png') center/cover no-repeat;
     margin: -2rem 0;
 }
 
@@ -531,7 +531,7 @@ button {
     box-sizing: border-box;
     padding: 72px clamp(34px, 8vw, 95px);
     color: #ffffff;
-    background: url('img/latar text.png') center/cover no-repeat;
+    background: url('img/Latar text.png') center/cover no-repeat;
     text-align: center;
 }
 
@@ -550,7 +550,7 @@ button {
 }
 
 .nasehat-galeri {
-    background: url('img/latar.png') center/cover no-repeat;
+    background: url('img/Latar.png') center/cover no-repeat;
     padding: 28px 0 0;
     padding-bottom: 10rem;
 }
@@ -631,7 +631,7 @@ button {
 }
 
 #adab.adab {
-    background: url('img/latar.png') center/cover no-repeat;
+    background: url('img/Latar.png') center/cover no-repeat;
     padding: 60px 20px 90px;
     margin: -10rem;
 }
@@ -640,7 +640,7 @@ button {
     box-sizing: border-box;
     padding: 72px clamp(34px, 8vw, 95px);
     color: #ffffff;
-    background: url('img/latar text.png') center/cover no-repeat;
+    background: url('img/Latar text.png') center/cover no-repeat;
     text-align: center;
     margin: -8rem 0 0;
     margin-bottom: 2rem;
