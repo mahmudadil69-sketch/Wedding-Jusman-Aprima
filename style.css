@@ -524,6 +524,7 @@ button {
     overflow-x: hidden;
     background: #ffffff;
     padding: 0 0 80px;
+    padding-bottom: 0rem;
 }
 
 #nasehat .nasehat-pengantar {
